@@ -1,0 +1,17 @@
+{
+  "name": "mcp-server-billing-kit",
+  "version": "1.0.0",
+  "description": "Monetize an MCP server: Dodo subscription check + KV usage metering + 402 payment-required overage. The missing payment layer for the MCP economy (<5% servers monetized).",
+  "main": "worker.js",
+  "type": "module",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "template",
+    "server",
+    "ai",
+    "agent"
+  ],
+  "license": "SEE LICENSE IN README.md",
+  "author": "PixHarvest (ContentForge)"
+}
